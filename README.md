@@ -15,6 +15,13 @@ Meu objetivo é transformar ideias em projetos reais, aplicando tecnologia para 
 
 ---
 
+## 📚 Estou aprendendo
+- Integração de APIs com Python
+- Automação de tarefas com IA
+- Análise de dados e visualização
+
+---
+
 ## 🔗 Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/FonteS-AI)
 
