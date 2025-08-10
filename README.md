@@ -11,6 +11,8 @@
 Aprendiz com foco em criar soluções usando **Python**, **IA**, **automação** e **análise de dados**.  
 Meu objetivo é transformar ideias em projetos reais, aplicando tecnologia para resolver problemas do dia a dia.  
 
+💡 Sempre aberta a colaborar em projetos interessantes que envolvam inovação e tecnologia.
+
 ---
 
 ## 🔗 Conecte-se comigo
